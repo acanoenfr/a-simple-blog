@@ -50,8 +50,8 @@ $_ENV["dirs"] = [
  */
 $_ENV["database"] = [
     "dsn" => "mysql:host=localhost;dbname=blog;",
-    "user" => "admin",
-    "pass" => "Me2seinS5962"
+    "user" => "replace-me",
+    "pass" => "replace-me"
 ];
 
 $_ENV["root"] = dirname($_SERVER["DOCUMENT_ROOT"]);
